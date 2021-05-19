@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"vm","Source":"Terraform-VMWare-Modules/vm/vsphere","Version":"3.0.0","Dir":".terraform/modules/vm"},{"Key":"vm3nic","Source":"Terraform-VMWare-Modules/vm3nic/vsphere","Version":"0.3.0","Dir":".terraform/modules/vm3nic"},{"Key":"","Source":"","Dir":"."}]}

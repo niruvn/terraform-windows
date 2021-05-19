@@ -1,0 +1,76 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/hashicorp/vsphere" {
+  version     = "1.26.0"
+  constraints = "1.26.0"
+  hashes = [
+    "h1:7ZdLa+zdV6KGOZ5VxVLRmPyGz27DwpCFZy6w0Vegy/s=",
+    "zh:3a67a13d7cdb1209d5fa756e80b2f6a36f1db0df0d78b1b3e58a68a4834befdb",
+    "zh:47f59fd678685fd5711990237272b27d45666ea209180baa0852e078dbc667ca",
+    "zh:4a17e4d9b648b688e39982fdaa1310ec0e111dac3d2b84c2b39b8801f289a69d",
+    "zh:5efa8a3fea7cf5b803dce07a2a5b8e78219e9ca2e7476ffd9fa7e5d2efcf7006",
+    "zh:63fabd7423381094b3186388023ac24e5d03b1184e45d47cdd4165cfd11a1968",
+    "zh:6bce88dd3401d121a45966aeb61f3015797389a7d0a6fdc84dad7c6e0705710a",
+    "zh:92648675a4e8aa93d29a3d0a38c0bb278978ab6d40dd32713c1bfaad9632d34c",
+    "zh:92a9457a284762c7f4aa7c7461ddb306b76284798f2b1ee6f7012d6a6d6934cd",
+    "zh:ea031bf5138c09244df2ae43e942831afe7064f8d1973774ad8d7abcc5ef2936",
+    "zh:f05a515fcae459a7ff99f92d288d6e14651f4edad28e2c6db023b159acaaed97",
+    "zh:f09563dccd6dc2188bc315a32dfcc67aee20c668d026c5236b6a71f85d331951",
+  ]
+}
+
+provider "registry.terraform.io/kreuzwerker/docker" {
+  version = "2.11.0"
+  hashes = [
+    "h1:2BuPcSQY9DSRhPufzrbiGyMW2NX1qqXkH1KfzrMUQmU=",
+    "zh:1b9d93385cc0329467725ce90affc76a361bc23384a7358431e6ee281ae323de",
+    "zh:21a327746cdad2abfc22df3d72eb9b36134bb7daeb72b2a52112adfd3a39555a",
+    "zh:31ed477f429686015271188b03e89bfc400b74eea9e83956ea4cc16018b561f3",
+    "zh:4302d65b5cbedbe42cf35094748058aea44f75dd7ec2b257330b5f60a2521def",
+    "zh:43f53e3e29070dfec0621915d0a5266c386f7416f6a719531b7c55924cefd280",
+    "zh:4bf7704bf46868edd834991f350aa6204c72397be1e1a784278391bb911e29f5",
+    "zh:503434ddf9c801aa9a9e47e76b6b5758dd4583a49f7ac373066430b37b3efcaf",
+    "zh:67410f9ed6503692121519b81e13cf5274ceadb5566bf2ec2dc0a6e43c700621",
+    "zh:c0fd724ed8da52375976c3595a2a6748bf28c07ec881ad7154e657ab5c38f25b",
+    "zh:cbe762d96c4ae61c42d8c02c047954b52a6567b214a0263345135baf249accd7",
+    "zh:d3a23b086199d4a2a63707f28c0da8b392d8d11281c6881d85a959e76626fb7e",
+  ]
+}
+
+provider "registry.terraform.io/nbering/ansible" {
+  version     = "1.0.4"
+  constraints = "1.0.4"
+  hashes = [
+    "h1:G9OI+CZMXBdfe0Oa+/B7zOVronatrovHxDlvpuy5VOE=",
+    "zh:0601b46fc129828b7351662c46946a099e57c97a35eefdba111e97feaed00be1",
+    "zh:0a6754c2b93146bbb50a6e7ac6d9b596da352bf43474ac65ebd0214ac703ce92",
+    "zh:16cc61e49ab806a7e7b1e510d915c3563c89147e7f49d1cb857b4a98555d58e2",
+    "zh:3ad5b27cc4ae71c0794b6c3a0abb5bbc74d750b34ab83bed0a232c722514dabe",
+    "zh:4dca1f8fcf5a0749994346f1dc6c7f7284469b80d87370b5bae7e812234d1eba",
+    "zh:587ef471ea30c9505fa39570c49c5ed2222d4569e5909982965a963209f5c67f",
+    "zh:5cfaae8e4ef9754156008418fc74224461b7ad101fa86812af7315a7e79fd33f",
+    "zh:720510a04d17c4593969dd31b44063a0ecca53d930e9616a7714c372b4973e13",
+    "zh:84d57af64bfbd007440c6916c40a9bed6c5226b72549e8c408c80981bc9aa13e",
+    "zh:e1fe7f6c9826f905333813332e027529d2dae30043c3903afcff05be302b940c",
+    "zh:fe5e9e7a8550e97933e50d5471b4e13338754aff76524ecb1cb50bd6bce61145",
+  ]
+}
+
+provider "registry.terraform.io/vmware/nsxt" {
+  version = "3.1.1"
+  hashes = [
+    "h1:7JvMr9XL/Jx3xyFkrND8Zf0eB4y7sdk/wuzW+v1ullo=",
+    "zh:0ae7e00066f458c2412c2d65557859fd7fb419ebd261f296dd6b641b0eb43562",
+    "zh:1022c4f700a974f9d85b86cb06a669e0d09090df274ea01d18b231d9f40f473d",
+    "zh:1692e6cc3e6dfddb3d273486dd2bd7f7de0ee748b9b6253b4f1238f0295603a5",
+    "zh:4fb3e11fbd625fa8c592ebaaec22f6722c06b0721da2546318492d1acd358c71",
+    "zh:77842469f065225751afe1c36e332c5b60cf199b19e1c0154e09784eb287f1da",
+    "zh:7b0cf01641a3045aa89510352c352a7eb5ede2b032d9b3faf22b7f4370e4cc83",
+    "zh:bd8048cdf08e92cc2fd3ddfd5bc1198841532d6a7bebcea3d6d060e643d2809d",
+    "zh:c7f15e67e3c7dc94b2eff5f1a0817c8a414171ae115f6d14be493d6d558da820",
+    "zh:e2ee1020b1c58068c92f351fe0b8feae7303b32d4a790b9cf31371e5bd20b154",
+    "zh:eaf1e8ca96deca5615c19df605c061cb6a6de1fa66961be42fba11f2e72233ee",
+    "zh:f94195c2e6fce7942bd40bd238b1ff82ddf93723ba199e8b13374bb4c96da21b",
+  ]
+}
